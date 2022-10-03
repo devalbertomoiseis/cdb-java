@@ -1,55 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201d4941-fab1-4562-84fe-d4d2b9c8d894" name="Changes" comment="CDB - JAVA: Trabalhando If e Else">
+    <list default="true" id="201d4941-fab1-4562-84fe-d4d2b9c8d894" name="Changes" comment="CDB - JAVA: Trabalhando Do While e Switch Case :#">
+      <change afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/AulaDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/BreakRotulado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/BreakRotulado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/ContinueRotulado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/ContinueRotulado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/DesafioDiaSemana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/DesafioDiaSemana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/DesafioFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/DesafioFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/DesafioIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/DesafioIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/DesafioWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/DesafioWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/For1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/For1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/For2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/For2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/For3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/For3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/If.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/IfElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/SwitchComBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/SwitchComBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/SwitchSemBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/SwitchSemBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/WhileDeterminado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/WhileDeterminado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controle/basico/WhileIndeterminado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/controle/basico/WhileIndeterminado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/AreaCircunferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/AreaCircunferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/ConversaoNumeroString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/ConversaoNumeroString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/ConversaoStringNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/ConversaoStringNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/ConversaoTipoPrimitivoNumerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/DesafioCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/DesafioCalculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/DesafioConversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/DesafioConversao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Import.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Inferencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Inferencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/NotacaoPonto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/NotacaoPonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Operadores03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Operadores03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/PrimeiroPrograma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/PrimeiroPrograma01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/PrimeiroPrograma01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/PrimitivoVsObjeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/PrimitivoVsObjeto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Temperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Temperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/TipoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/TipoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/TipoStringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/TipoStringEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/TiposPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/TiposPrimitivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Variaveis02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Variaveis02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modulo/basico/Wrappers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/modulo/basico/Wrappers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Aritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Aritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Atribuicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Atribuicao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/DesafioAritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/DesafioAritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/DesafioLogicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/DesafioLogicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Logicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Logicos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Relacionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Relacionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Ternario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Ternario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operadores/basico/Unarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/operadores/basico/Unarios.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664227874132</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CDB - JAVA: Atualização de Informações de Pastas">
+      <created>1664288761328</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664288761328</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CDB - JAVA: Trabalhando com estruturas condicionais.">
+      <created>1664647338957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664647338957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CDB - JAVA: Trabalhando com estrutura condicional While">
+      <created>1664747750162</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664747750162</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +140,10 @@
     <MESSAGE value="CDB - JAVA: Trabalhando com Operadores" />
     <MESSAGE value="CDB - JAVA: Trabalhando os fundamentos de Java" />
     <MESSAGE value="CDB - JAVA: Trabalhando If e Else" />
-    <option name="LAST_COMMIT_MESSAGE" value="CDB - JAVA: Trabalhando If e Else" />
+    <MESSAGE value="CDB - JAVA: Atualização de Informações de Pastas" />
+    <MESSAGE value="CDB - JAVA: Trabalhando com estruturas condicionais." />
+    <MESSAGE value="CDB - JAVA: Trabalhando com estrutura condicional While" />
+    <MESSAGE value="CDB - JAVA: Trabalhando Do While e Switch Case :#" />
+    <option name="LAST_COMMIT_MESSAGE" value="CDB - JAVA: Trabalhando Do While e Switch Case :#" />
   </component>
 </project>
