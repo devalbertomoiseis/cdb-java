@@ -15,7 +15,7 @@ public class Fatorial {
         f = n * (n-1);
         System.out.println(f);
 
-        for (int i = (n -1); i>1; i--) {
+        for (int i = (n -1); i > 1; i--) {
             f *= (i-1);
             System.out.println(f);
         }

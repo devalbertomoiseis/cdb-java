@@ -10,11 +10,10 @@ public class Potencia {
         int potencia;
 
         System.out.println("A Potencia de 0 a 15 do número escolhido:");
-        for(int i=0; i<= 15;i++)
-        {
+        for(int i = 0; i <= 15; i++) {
 
-            potencia = (int)Math.pow(num,i);
-            System.out.println(num +"x"+i+"="+ potencia);
+            potencia = (int)Math.pow(num, i);
+            System.out.println(num + "x" + i + "=" + potencia);
         }
     }
 }
