@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201d4941-fab1-4562-84fe-d4d2b9c8d894" name="Changes" comment="CDB - JAVA: Trabalhando com Exercicios Fibonacci e Potencia">
-      <change afterPath="$PROJECT_DIR$/src/academy/companye/exercicios/NumeroPar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/companye/exercicios/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/exercicios/Fatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/companye/exercicios/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/exercicios/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/companye/exercicios/Potencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/companye/exercicios/Potencia.java" afterDir="false" />
-    </list>
+    <list default="true" id="201d4941-fab1-4562-84fe-d4d2b9c8d894" name="Changes" comment="CDB - JAVA: Trabalhando com Exercicios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665438491795</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CDB - JAVA: Trabalhando com Exercicios">
+      <created>1665494221266</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665494221266</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +164,7 @@
     <MESSAGE value="CDB - JAVA: Trabalhando Do While e Switch Case :#" />
     <MESSAGE value="CDB - JAVA: Trabalhando com Java Fundamentos" />
     <MESSAGE value="CDB - JAVA: Trabalhando com Exercicios Fibonacci e Potencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="CDB - JAVA: Trabalhando com Exercicios Fibonacci e Potencia" />
+    <MESSAGE value="CDB - JAVA: Trabalhando com Exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="CDB - JAVA: Trabalhando com Exercicios" />
   </component>
 </project>
